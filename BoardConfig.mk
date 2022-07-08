@@ -37,7 +37,7 @@ TARGET_EXCLUDES_AUDIOFX := true
 TARGET_SCREEN_DENSITY := 420
 
 # Kernel
-TARGET_KERNEL_CONFIG := lineageos_beckham_defconfig
+TARGET_KERNEL_CONFIG := mokee_beckham_defconfig
 
 # HIDL
 DEVICE_MANIFEST_FILE += $(DEVICE_PATH)/motomods.xml

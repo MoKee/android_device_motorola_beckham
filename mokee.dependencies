@@ -1,5 +1,9 @@
 [
   {
+    "repository": "android_vendor_motorola_beckham",
+    "target_path": "vendor/motorola/beckham"
+  },
+  {
     "repository": "android_device_motorola_sdm660-common",
     "target_path": "device/motorola/sdm660-common"
   }
